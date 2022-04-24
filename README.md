@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shmuel Malikov</h1>
 <h3 align="center">A passionate developer from Israel</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shmulls&label=Profile%20views&color=0e75b6&style=flat" alt="shmulls" /> </p>
 
