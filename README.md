@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/80007339/164998624-488b6e8d-b4c8-4d32-952e-e73834e0623f.gif)
-<h1 align="center">Hi 👋, I'm Shmuel Malikov</h1>
-<h1 align="center">A passionate developer from Israel</h1>
+<h1 align="center">Hi, I'm Shmuel Malikov</h1>
+
 
 🌱 I’m currently learning JavaScript(Node, React) and MongoDB.<br>📫 How to reach me malikovshmuel@gmail.com<br>⚡ Fun fact Fan of marvel cinematics
 
@@ -13,9 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shmulls&theme=bear&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shmulls&theme=bear&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shmulls&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shmulls&icon=2&color=0)](https://visitcount.itsvg.in)
