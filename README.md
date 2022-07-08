@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shmuel Malikov</h1>
 <h3 align="center">A passionate developer from Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shmulls&label=Profile%20views&color=0e75b6&style=flat" alt="shmulls" /> </p>
-
-# 💫 About Me:
 🌱 I’m currently learning JavaScript(Node, React) and MongoDB.<br>📫 How to reach me malikovshmuel@gmail.com<br>⚡ Fun fact Fan of marvel cinematics
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sshmoel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shmuel-malikov) 
